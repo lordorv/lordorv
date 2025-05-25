@@ -159,7 +159,7 @@
   <script>
     function mostrarAlerta() {
       Swal.fire({
-        title: 'Eu sei rs :)',
+        title: 'Eu sei rs vida :)',
         confirmButtonText: 'Fechar',
         background: '#1e1e1e',
         color: '#ffffff',
